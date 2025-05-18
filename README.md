@@ -1,2 +1,2 @@
-# Entregas-Inst.Beltr-n-
+# Entregas-Instituto.Beltrán-n-
 Entregas tp´s Beltrán

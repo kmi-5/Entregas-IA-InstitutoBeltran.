@@ -1,2 +1,3 @@
-# Entregas-Instituto.Beltrán-n-
-Entregas tp´s Beltrán
+# Entregas de tecnicas del habla en Inteligencia Artificial
+Instituto Beltrán
+Entregas de tp´s

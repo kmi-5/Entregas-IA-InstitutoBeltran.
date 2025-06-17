@@ -1,6 +1,6 @@
 **Conclusión general del código**
 
-Utilizando Python, el siguiente código implementa un **pipeline de procesamiento de lenguaje natural (NLP)** trabajando con herramientas de NLTK y scikit-learn, con el objetivo de transformar textos crudos en datos cuantificables y analizables. Con procesos para limpiar, lematizar, vectorizar y analizar textos relacionados a distintos lenguajes de programación. 
+Utilizando Python, el siguiente código implementa un **`pipeline de procesamiento de lenguaje natural (NLP)`** trabajando con herramientas de NLTK y scikit-learn, con el objetivo de transformar textos crudos en datos cuantificables y analizables. Con procesos para limpiar, lematizar, vectorizar y analizar textos relacionados a distintos lenguajes de programación. 
 
 **Explicación de cada parte**
 

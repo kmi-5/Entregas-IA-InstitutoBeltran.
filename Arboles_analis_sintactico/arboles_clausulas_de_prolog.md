@@ -34,6 +34,7 @@ num = numero
 n = nucleo (verbo)
 vt = verbo transitivo
 vi =  verbo intransitivo
+md = modificador directo	
 
 *Algunos ejemplos de estos arboles pueden ser.*
 
@@ -68,7 +69,7 @@ Oración
 
 ├── Sintagma Nominal
 │   ├── Determinante: los
-│   └── Nombre/Nucleo: reyes católicos
+│   └── Nombre/Nucleo: católicos
 └── Sintagma Verbal
     ├── Verbo: conquistaron
     └── Complemento (Nombre propio): Granada
@@ -85,7 +86,7 @@ Oración
     └── Sintagma Nominal
         ├── Determinante: una
         ├── Nombre/Nucleo: lengua
-        └── Modificador: romance
+        └── Modificador directo: romance
 
 
 5. Los mayas resistieron la colonización española
@@ -99,7 +100,7 @@ Oración
     └── Sintagma Nominal
         ├── Determinante: la
         ├── Nombre/Nucleo: colonización
-        └── Modificador: española
+        └── Modificador directo: española
 
 
 Los sacerdotes evangelizaban a los indígenas
@@ -123,7 +124,7 @@ Oración
 ├── Sintagma Nominal
 │   ├── Determinante: las
 │   ├── Nombre/Nucleo: lenguas
-│   ├── Modificador: minoritarias
+│   ├── Modificador directo: minoritarias
 │   └── Complemento
 │       ├── Preposición: de
 │       └── Nombre/Nucleo: España
@@ -134,7 +135,7 @@ Oración
         ├── Preposición: en
         └── Sintagma Nominal
             ├── Determinante: una
-            ├── Modificador: nueva
+            ├── Modificador directo: nueva
             └── Nombre/Nucleo: etapa
 
 
@@ -148,7 +149,7 @@ Oración
     ├── Verbo: es
     └── Sintagma Nominal
         ├── Nombre/Nucleo: lengua
-        └── Modificador: oficial
+        └── Modificador directo: oficial
         └── Complemento
             ├── Preposición: en
             └── Sintagma Nominal
@@ -188,12 +189,12 @@ Oración
 ├── Sintagma Nominal
 │   ├── Determinante: los
 │   ├── Nombre/Nucleo: niños
-│   ├── Modificador: monolingües
+│   ├── Modificador directo: monolingües
 │   └── Complemento
 │       ├── Preposición: de
 │       └── Sintagma Nominal
 │           ├── Nombre/Nucleo: desarrollo
-│           └── Modificador: normal
+│           └── Modificador directo: normal
 └── Sintagma Verbal
     ├── Verbo: pasan
     └── Complemento

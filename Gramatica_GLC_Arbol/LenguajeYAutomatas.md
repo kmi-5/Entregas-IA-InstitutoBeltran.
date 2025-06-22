@@ -79,6 +79,6 @@ R   ->  xRx
     ->  aababa
 
 *Imagen del árbol.*
-https://github.com/kmi-5/Entregas-Inst.Beltr-n-/blob/main/arbol%20derivacion.jpeg?raw=true
+[https://github.com/kmi-5/Entregas-Inst.Beltr-n-/blob/main/arbol%20derivacion.jpeg?raw=true](https://github.com/kmi-5/Entregas-IA-InstitutoBeltran./blob/main/Gramatica_GLC_Arbol/arbol%20derivacion.jpeg?raw=true)
 
 
